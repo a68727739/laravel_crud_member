@@ -5,3 +5,4 @@
     step04 php artisan key:generate
     step05 run command php artisan migrate.
     step06 瀏覽器瀏覽該專案 /public
+![image](https://github.com/a68727739/laravel_crud_member/blob/master/demo01.gif)
